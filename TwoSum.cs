@@ -15,6 +15,6 @@ public class Solution {
             }
         }
 
-        return new int[] {}; // LeetCode says there is always one solution
+        return new int[] {}; 
     }
 }
