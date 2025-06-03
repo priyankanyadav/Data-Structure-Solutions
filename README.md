@@ -1,2 +1,20 @@
-# Data-Structure-Solutions
-Efficient and well-documented solutions to Data Structure problems in C#, showcasing algorithmic thinking and clean code practices
+# Data Structure Solutions
+
+This repository contains my solutions to common data structure problems, mostly practiced from LeetCode.
+
+## 💻 Language
+- C#
+
+## 📂 Topics Covered
+- Arrays
+- HashMaps
+- Linked Lists
+- Trees
+- Stacks & Queues
+- Recursion
+- Sorting & Searching
+
+## 📌 Purpose
+- Strengthen my DSA skills
+- Prepare for technical interviews
+- Practice clean, readable, and optimized C# code
