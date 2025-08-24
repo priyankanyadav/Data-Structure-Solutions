@@ -4,6 +4,7 @@ This repository contains my solutions to common data structure problems, mostly 
 
 ## 💻 Language
 - C#
+- Java
 
 ## 📂 Topics Covered
 - Arrays
